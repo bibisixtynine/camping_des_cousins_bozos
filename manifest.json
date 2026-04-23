@@ -1,0 +1,23 @@
+{
+  "name": "La Fête des Créatures",
+  "short_name": "Créatures",
+  "description": "Un monde chaotique de créatures bondissantes et d'OVNIs nucléaires.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#87CEEB",
+  "theme_color": "#ffcc00",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
